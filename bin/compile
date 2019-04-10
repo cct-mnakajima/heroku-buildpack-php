@@ -561,7 +561,7 @@ else
 	fi
 fi
 
-status "Installing dependencies..."
+status "Installing dependencies!!!"
 
 # echo composer version for info purposes
 # tail to get rid of outdated version warnings (Composer sends those to STDOUT instead of STDERR)
